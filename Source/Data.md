@@ -4,7 +4,7 @@ A collection of some of my saved links and resources,
 neatly (I hope) categorized for everyone!  
 (and example for my [WebPinBoard](https://gitlab.com/octospacc/WebPinBoard) software)
 
-- Data.md file License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- [Data.md](./Data.md) file License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 uwu links..
 
@@ -13,9 +13,10 @@ uwu links..
 
 - [Home](../) - Home page of this site!
 
+- [[🇮🇹️] sitoctt](https://sitoctt.octt.eu.org) - My current italian personal website and blog
 - [Mastodon](https://mastodon.uno/@octo) - Microblog, 98% italian  
 - [Pixelfed](https://pixelfed.uno/@octo) - Where I post my pictures  
-- [Noblogo](https://noblogo.org/loli-documentatrice) - Blog, 100% italian (!)  
+- [[🇮🇹️] Noblogo](https://noblogo.org/loli-documentatrice) - Old blog (italian)  
 - Spacc Inc - [Website](https://spacc.xyz), [Telegram (photos of broken stuff)](https://t.me/s/SpaccInc)  
 - SpaccCraft, my Minecraft server (italian): [Website](https://spacccraft.altervista.org), [Telegram](https://t.me/s/SpaccCraft), [Misskey](https://misskey.social/@SpaccCraft)  
 
@@ -58,7 +59,7 @@ uwu links..
 - [RustDesk](https://github.com/rustdesk/rustdesk) - Promising remote desktop software  
 - [Deskreen](https://github.com/pavlobu/deskreen) - Turns a secondary PC into a secondary screen for a primary PC  
 - [Standard Notes](https://github.com/standardnotes) - Clean encrypted notes app  
-- [Tor Project](https://www.torproject.org) - Anonymity online  
+- [Tor](https://www.torproject.org) - Anonymity and security online  
 
 
 ### Awesome Libre Desktop Tools!
@@ -66,6 +67,7 @@ uwu links..
 - [OBS Studio](https://obsproject.com) - Advanced video recording/streaming tool  
 - [Olive](https://olivevideoeditor.org) - Nice and simple video editor  
 - [Kdenlive](https://kdenlive.org) - Video editor from KDE  
+- Shotcut - [Website](https://shotcut.org), [Source](https://github.com/mltframework/shotcut) - Video editor that might be my current favourite  
 - [Mint Webapp Manager](https://github.com/linuxmint/webapp-manager) - Using webapps as desktop apps  
 
 
@@ -93,14 +95,25 @@ uwu links..
 - [Friendica](https://github.com/friendica/friendica) - Advanced macroblogging and communication  
 - [Misskey](https://github.com/misskey-dev/misskey) - Colorful and advanced microblogging  
 - [Pixelfed](https://github.com/pixelfed/pixelfed) - Photo/video sharing  
-- [Lemmy](https://github.com/LemmyNet/lemmy) - Link aggregator   
+- [Lemmy](https://github.com/LemmyNet/lemmy) - Link aggregator and forum platform  
+- Bonfire - [Website](https://bonfirenetworks.org), [Source](https://github.com/bonfire-networks/bonfire-app) - New simple microblogging platform, with a focus on no-JS use  
 
 
 ### Awesome Libre Server-Side Software!
 - [Invidious](https://github.com/iv-org/invidious) - YouTube frontend  
 - [Nitter](https://github.com/zedeus/nitter) - Twitter frontend  
 - [Bibliogram](https://sr.ht/~cadence/bibliogram) - Instagram frontend  
-- [Libreddit](https://github.com/spikecodes/libreddit) - Reddit frontend
+- [Libreddit](https://github.com/spikecodes/libreddit) - Reddit frontend  
+
+
+### Miscellaneous
+
+¯\\\_(ツ)\_/¯
+
+
+### HTML5 OSes (yes they are a thing)
+- OS.js - [Website](https://os-js.org), [Source](https://github.com/os-js/OS.js)  
+- daedalOS - [Demo](https://dustinbrett.com), [Source](https://github.com/DustinBrett/daedalOS)  
 
 
 ### Awesome Libre Android Tools!
